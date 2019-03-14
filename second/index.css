@@ -1,0 +1,65 @@
+body {
+padding: 10px;
+}
+
+.topBox {
+    width: 100%;
+    height: 20vw;
+    border: 4px solid;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.boxOne {
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+}
+.boxTwo {
+    background-color: red;
+    height: 250px;
+    width: 300px;
+    padding: 0 100px;
+    display: inline-block;
+    margin-left: 35px;
+}
+.circleOne {
+    background-color: aqua;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 35px;
+}
+
+.midBox {
+    width: 100%;
+    height: 20vw;
+    border: 4px dotted;
+    margin-top: 10px;
+}
+
+.midBox div {
+    background-color: sandybrown;
+    height: 12vw;
+    width: 85%;
+    margin-top: 50px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 5px 0px;
+}
+
+.bottomBox {
+    border: 1px solid;
+    box-shadow: 10px 10px 5px 0px lightgrey;
+    height:10vh;
+    width:50%;
+    padding: 100px;
+    margin: 25px auto;
+}
+
+.bottomBox h1 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}

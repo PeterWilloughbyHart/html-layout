@@ -23,6 +23,7 @@ body {
   display: inline-block;
   background-color: forestgreen;
   margin: 0 50px;
+  padding-left: 50px;
 }
 .circle-one {
   height: 200px;
